@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, welcome! 
-<img align='right' src="https://github.com/GabriellyC/GabriellyC/blob/main/img/hi.gif?raw=true" width="230">
+<img align='right' src="https://github.com/GabriellyC/GabriellyC/blob/main/img/gaby[].gif?raw=true" width="230">
 <h2> I'm Gaby! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
  
 - 👩‍🎓Sou estudante de Ciência da Computação

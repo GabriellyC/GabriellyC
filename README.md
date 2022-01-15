@@ -3,7 +3,7 @@
 <h2> I'm Gaby! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
  
 - 👩‍🎓Sou estudante de Ciência da Computação
-- 🏃🏻‍♀️Minha missão é aprender e crescer! Para que um dia eu possa contribuir com a comunidade de Tecnologia.
+
 
 
  

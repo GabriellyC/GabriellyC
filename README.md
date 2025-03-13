@@ -2,7 +2,7 @@
 <img align='right' src="https://github.com/GabriellyC/GabriellyC/blob/main/img/1.jpg?raw=true" width="230">
 <h2> I'm Gaby! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
  
-- 👩‍🎓 Sou uma profissional proativa, e sempre em busca de aprender coisas novas.
+- 👩‍🎓 Sou uma pessoa proativa, e sempre em busca de aprender coisas novas.
 - 📖 Gosto de estudar de forma autodidata e estou explorando o mundo do desenvolvimento web e web design.
 
 
